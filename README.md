@@ -1,5 +1,5 @@
 # Hello there 👨🏿‍💻
 
-I am a Business Administration graduate of The University of Texas at San Antonio as well as certified full stack developer. I am looking to help companies build responsive full scale websites while optimizing user-focused for customers with various business needs.
+I graduated with a Business Administration degree from The University of Texas at San Antonio, and I'm also a certified full-stack developer. I'm eager to assist companies in creating user-friendly, responsive websites that cater to a range of business requirements.
 
 
