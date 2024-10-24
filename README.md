@@ -1,5 +1,5 @@
 # Hello there 👨🏿‍💻
 
-I graduated with a Business Administration degree from The University of Texas at San Antonio, and I'm also a certified full-stack developer. I'm eager to assist companies in creating user-friendly, responsive websites that cater to a range of business requirements.
+I am a Freelance Full Stack Developer with a passion for design. My career started with getting a bachelor's degree in Business Administration from UTSA as well as learning to code becoming a developer. Now, I bridge the gap between technical development and creative design, combining my skills to build websites and applications that are not only functional but also visually engaging.
 
 
